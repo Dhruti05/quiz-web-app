@@ -6,7 +6,7 @@ A high-performance, fully responsive Quiz Web Application designed to provide a 
 
 ## 🚀 Live Demo
 Experience the application live here:  
-**[▶️ Play the Quiz Now](PASTE_YOUR_LINK_HERE)**
+https://dhruti05.github.io/quiz-web-app/
 
 ---
 
